@@ -1,0 +1,16 @@
+label {
+    display: flex;
+    flex-wrap: wrap;
+    width: 360px;
+    height: 72px;
+    margin-left: 156px;
+    /* justify-content: start; */
+}
+
+input {
+    width:  100%;
+    border: 1px solid #808080;
+    border-radius: 4px;
+    /* width: 360px; */
+    height: 40px;
+}
